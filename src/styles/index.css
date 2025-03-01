@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Layers */
+@layer theme , utility , components ;
